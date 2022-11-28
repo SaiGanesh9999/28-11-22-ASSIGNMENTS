@@ -1,0 +1,6 @@
+pin=9999
+n=int(input())
+if n==pin:
+    print('continue the transactions')
+else:
+    print('Incorrect Pin')
